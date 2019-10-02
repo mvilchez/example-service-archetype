@@ -1,4 +1,4 @@
-package domain;
+package ${package}.domain;
 
 /**
  * Clase por defecto para las respuestas de Error

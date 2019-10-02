@@ -1,4 +1,4 @@
-package domain;
+package ${package}.domain;
 
 import java.io.Serializable;
 

@@ -1,11 +1,11 @@
-package web;
+package ${package}.web;
 
-import domain.HelloResponse;
-import domain.UnauthorizedResponse;
-import service.HelloService;
-import domain.ForbiddenResponse;
-import domain.InternalErrorResponse;
-import domain.NotFoundResponse;
+import ${package}.domain.HelloResponse;
+import ${package}.domain.UnauthorizedResponse;
+import ${package}.service.HelloService;
+import ${package}.domain.ForbiddenResponse;
+import ${package}.domain.InternalErrorResponse;
+import ${package}.domain.NotFoundResponse;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiImplicitParam;
 import io.swagger.annotations.ApiOperation;

@@ -1,6 +1,6 @@
-package service;
+package ${package}.service;
 
-import domain.HelloResponse;
+import ${package}.domain.HelloResponse;
 
 /**
  * Interface del servicio de Hola

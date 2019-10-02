@@ -1,7 +1,7 @@
-package service.impl;
+package ${package}.service.impl;
 
-import domain.HelloResponse;
-import service.HelloService;
+import ${package}.domain.HelloResponse;
+import ${package}.service.HelloService;
 
 /**
  * Implementación del servicio de Hola
