@@ -2,8 +2,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>es.invied.archetypes</groupId>
-	<artifactId>invied-service-archetype</artifactId>
+	<groupId>es.mvilchez.archetypes</groupId>
+	<artifactId>example-service-archetype</artifactId>
 	<version>1.4.0-RELEASE</version>
 	<name>maven-archetype</name>
 	<packaging>maven-archetype</packaging>
@@ -28,7 +28,7 @@
 
 <!--
 Usage:
-mvn archetype:generate -DarchetypeGroupId=es.invied.service.starter -DarchetypeArtifactId=invied-service-archetype -DarchetypeVersion=RELEASE -DgroupId=es.invied.service -DartifactId=invied-service-demo -DinteractiveMode=false
+mvn archetype:generate -DarchetypeGroupId=es.mvilchez.service.starter -DarchetypeArtifactId=example-service-archetype -DarchetypeVersion=RELEASE -DgroupId=es.mvilchez.service -DartifactId=example-service-demo -DinteractiveMode=false
 -->
 
 </project>
